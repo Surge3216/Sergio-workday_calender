@@ -37,13 +37,14 @@ body {
   }
   
   .hour {
-    background-color: #ffffff;
+    background-color: #d506cb;
     color: #000000;
-    border-top: 1px dashed #000000;
+    border-top: 1px solid #000000;
+    border-left: 1px solid #000000;
   }
   
   .past { 
-    background-color: #d3d3d3;
+    background-color: #856e82;
     color: white;
   }
   
@@ -53,7 +54,7 @@ body {
   }
   
   .future {
-    background-color: #77dd77;
+    background-color: #f5b9e3;
     color: white;
   }
   
@@ -61,7 +62,7 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06aed5;
+    background-color: #d506cb;
     color: white;
   }
   

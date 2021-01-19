@@ -4,4 +4,4 @@ Using Html, css and Javascript ive created a workday calender that will change t
 
 Using Javascript I created fuctions to save appoinments, dispay time, and make css elements change though out the day, aswell as creating a loop to display html elements needed to display time blocks.
 
-![Image of Calender](./assets/calender1.png)
+![Image of Calender](/assets/calender1.png)
